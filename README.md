@@ -14,3 +14,8 @@
 
 ### 👥 Контакты:
 [Telegram](https://t.me/aniland_ds) | [Email](mailto:aniland.help@gmail.com) | [Discord](https://discord.gg/Kmpk7sBCVQ)
+
+# 🖼️ Скришоты
+
+---
+![image](https://github.com/user-attachments/assets/153d79fa-3f09-46f2-9955-a9518ac5e528)
