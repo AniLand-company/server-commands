@@ -18,6 +18,7 @@
       <img width="100" alt="Discord" src="https://github.com/user-attachments/assets/bdc0cdc9-90b7-4449-9454-f59c891aebe5">
    </a>
 </p>
+
 ### 👥 Контакты:
 
 [Telegram](https://t.me/aniland_ds) | [Email](mailto:aniland.help@gmail.com) | [Discord](https://discord.gg/Kmpk7sBCVQ)
